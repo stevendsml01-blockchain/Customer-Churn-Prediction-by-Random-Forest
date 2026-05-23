@@ -95,6 +95,9 @@ Target:
 - Imbalanced-Learn
 
 ---
+## Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 # Author
 
